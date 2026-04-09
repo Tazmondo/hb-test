@@ -1,0 +1,51 @@
+{
+	"siteVersion": "2.26.1",
+	"_meta": {
+		"sources": [
+			{
+				"json": "lol",
+				"abbreviation": "abc",
+				"full": "lol",
+				"version": "1.0.0",
+				"edition": "classic"
+			}
+		],
+		"dateAdded": 1775770064,
+		"dateLastModified": 1775770064,
+		"edition": "classic"
+	},
+	"spell": [
+		{
+			"name": "new spell :D",
+			"source": "lol",
+			"level": 1,
+			"school": "A",
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "self"
+				}
+			},
+			"duration": [
+				{
+					"type": "instant"
+				}
+			],
+			"entries": [],
+			"classes": {
+				"fromClassList": [
+					{
+						"name": "Wizard",
+						"source": "XPHB"
+					}
+				]
+			}
+		}
+	]
+}
